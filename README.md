@@ -36,7 +36,7 @@ São instalações físicas que hospedam os servidores, armazenamento e infraest
 
 ---
 
-### 🔄 Relação entre os Conceitos
+### Relação entre os Conceitos
 
 - **Data centers** formam as **regiões**.
 - **Regiões** são agrupadas em **pares de região** para alta disponibilidade.
